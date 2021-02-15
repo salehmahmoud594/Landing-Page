@@ -1,17 +1,20 @@
 # Landing-Page
+
 ## Udacity's First Project ( Web Development Professional )
 
 ## The Project Structure:
+
     css
-    - styles.css   
+    - styles.css
     - bootstrap.min.css
     js
     - app.js
     - bootstrap.bundle.js
     index.html
     README.md
-   
-## Landing Page 
+
+## Landing Page
+
     -  All features are usable across modern desktop, tablet, and phone browsers.
     -  Styling has been added for active states.
     -  There are 5 sections that have been added to the page.
